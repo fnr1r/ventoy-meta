@@ -6,9 +6,13 @@ A (probably temporary) index for my Ventoy-related projects.
 
 ## Links
 
-- https://github.com/fnr1r/grub - grub source + config
+- https://github.com/fnr1r/ipxe - ipxe Ventoy-patched source
+    (with fixes for new compilers)
+- https://github.com/fnr1r/grub - grub Ventoy-patched source + config
+- https://github.com/fnr1r/ventoy-boot - build system for shared components
+    (i.e edk2 apps, grub, ipxe)
 - https://github.com/fnr1r/ventoy-cpio - cpio/ramdisk
-- https://github.com/fnr1r/ventoy-grub - grub build system
+- https://github.com/fnr1r/ventoy-grub - grub build system (deprecated)
 
 ## TODO
 
