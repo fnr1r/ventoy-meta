@@ -6,6 +6,7 @@ A (probably temporary) index for my Ventoy-related projects.
 
 ## Links
 
+- https://github.com/fnr1r/geom-ventoy - FreeBSD GEOM module for Ventoy
 - https://github.com/fnr1r/ipxe - ipxe Ventoy-patched source
     (with fixes for new compilers)
 - https://github.com/fnr1r/grub - grub Ventoy-patched source + config
