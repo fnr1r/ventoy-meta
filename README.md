@@ -15,6 +15,7 @@ A (probably temporary) index for my Ventoy-related projects.
 - https://github.com/fnr1r/ventoy-cpio - cpio/ramdisk
 - https://github.com/fnr1r/ventoy-edk2-components - edk2 Ventoy components
 - https://github.com/fnr1r/ventoy-grub - grub build system (deprecated)
+- https://github.com/fnr1r/wimboot - Ventoy-patched WIM image chainloader
 
 ## TODO
 
